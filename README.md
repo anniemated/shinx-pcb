@@ -10,7 +10,7 @@ you can rub its belly or let the photoresistor light up its ears -- it glows in 
 - 1 mini dc motor
 - 5 6mm push buttons
 
-![3dfront](https://github.com/anniemated/shinx-pcb/blob/main/shinx%203d%201.png)
-![3dback](https://github.com/anniemated/shinx-pcb/blob/main/shinx%203d%202.png)
-![pcb](https://github.com/anniemated/shinx-pcb/blob/main/shinx%20pcb.png)
-![schematic](https://github.com/anniemated/shinx-pcb/blob/main/shinx%20schematic.png)
+![3dfront](https://github.com/anniemated/shinx-pcb/blob/main/images/shinx%203d%201.png)
+![3dback](https://github.com/anniemated/shinx-pcb/blob/main/images/shinx%203d%202.png)
+![pcb](https://github.com/anniemated/shinx-pcb/blob/main/images/shinx%20pcb.png)
+![schematic](https://github.com/anniemated/shinx-pcb/blob/main/images/shinx%20schematic.png)
